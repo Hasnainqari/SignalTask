@@ -1,0 +1,46 @@
+@font-face {
+    font-family: Josefin_Sans;
+    src: url(./fonts/Josefin_Sans/JosefinSans-Italic-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: Inspiration;
+    src: url(./fonts/Inspiration/Inspiration-Regular.ttf);
+}
+
+@font-face {
+    font-family: Philosopher;
+    src: url(./fonts/Philosopher\ \(2\));
+}
+
+.heading {
+    font-size: 30px;
+    font-weight: 900;
+    font-family: Josefin_Sans;
+    display: flex;
+    justify-content: center;
+    text-justify: auto;
+}
+
+.trafic{
+    text-align: center;
+}
+
+.rules {
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Inspiration;
+    display: flex;
+    justify-content: center;
+}
+
+.points {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Philosopher;
+}
+
+.points ul {
+    display: flex;
+    justify-content: center;
+}
