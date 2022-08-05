@@ -1,0 +1,58 @@
+/* body{
+    background-color: black;
+} */
+.heading{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+.text{
+    font-size: 50px;
+    /* color: #fff; */
+    
+}
+.btn{
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    width: 100px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 50PX;
+    background-color:#000;
+    text-decoration: none;
+}
+/* .i_large,
+.i_medium,
+.i_small {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+.i_large {
+    background: url(./particules_large.png) repeat 0px 0px;
+    animation: dropFlowParticles 2s linear infinite;
+}
+
+.i_medium {
+    background: url(./particules_medium.png) repeat 0px 0px;
+    animation: dropFlowParticles 12s linear infinite;
+}
+
+.i_small {
+    background: url(./particules_small.png) repeat 0px 0px;
+    animation: dropFlowParticles 27s linear infinite;
+}
+
+@keyframes dropFlowParticles {
+    from {
+        background-position: 0 0;
+    }
+
+    to {
+        background-position: 0 413px;
+    }
+} */
